@@ -1,0 +1,29 @@
+{
+    "users":[
+        {
+          "id": "1",
+          "name": "Swimming Pool",
+          "description": "A large outdoor swimming pool.",
+          "bookingAmount": 50
+        },
+        {
+          "id": "2",
+          "name": "Tennis Court",
+          "description": "A standard tennis court with floodlights.",
+          "bookingAmount": 30
+        },
+        {
+          "id": "3",
+          "name": "Gym",
+          "description": "A fully equipped gym with modern equipment.",
+          "bookingAmount": 40
+        },
+        {
+          "id": "4",
+          "name": "Community Hall",
+          "description": "A large hall for events and gatherings.",
+          "bookingAmount": 100
+        }
+      ]
+      
+}
